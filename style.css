@@ -1,0 +1,79 @@
+
+body{
+    margin: 0 auto;
+    font-family: 'Staatliches', cursive;
+}
+.highlighte{
+    color:#FFC31F;
+}
+
+
+.menu{
+    float: right;
+    margin-right: 100px;
+    margin-top: 40px;
+}
+.clear{
+    overflow: hidden;
+}
+.menu-item a{
+   color: black;
+   font-weight: bold;
+   text-decoration: none;
+   padding: 15px;
+   margin-top: 15px;
+}
+.menu-item a:hover{
+    color:grey;
+ }
+ 
+
+
+
+.body-name{
+    width: 40%;
+    float: left;
+    margin: 5%;
+}
+.body-name img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px;
+    color: white;
+    border-radius: 5px;
+}
+section{
+    height: 500px;
+}
+.working-project{
+    background-color: rgb(211, 221, 218);
+}
+
+.project-title h1{
+    text-align: center;
+}
+.latest-name h1{
+    text-align: left;
+}
+.latest-name{
+    width: 20%;
+    float: left;
+    margin: 20px;
+    margin-left: 70px;
+    box-shadow: 10px 10px 50px grey;
+    border-radius: 10px;
+    padding: 30px;
+    background-color: white;
+}
+.latest-name img{
+    width: 100%;
+}
+.footer{
+    text-align: center;
+}
+.footer-content h1{
+    color: grey;
+}
